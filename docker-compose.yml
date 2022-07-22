@@ -1,0 +1,30 @@
+version: '3'
+services:
+    c-laravel-tutorial:
+        build:
+            context: .
+            dockerfile: './docker/Dockerfile'
+        container_name: c-laravel-tutorial
+        restart: always
+        working_dir: /var/www/html
+        ports:
+            - "80:80"
+            - "443:443"
+        volumes:
+            - .:/var/www/html
+            - ./docker/nginx_log:/var/log/nginx
+            - ./docker/php-fpm/php-fpm.log:/var/log/php-fpm.log
+            - ./docker/config/app.conf:/etc/nginx/conf.d/app.conf
+        links:
+            - c-mysql-tutorial
+
+    c-mysql-tutorial:
+        image: mysql:latest
+        container_name: c-mysql
+        restart: always
+        ports:
+            - "3308:3306"
+        volumes:
+            - ./docker/mysql:/var/lib/mysql
+        environment:
+            - MYSQL_ROOT_PASSWORD=admin19823234

@@ -1,0 +1,267 @@
+2022/07/17 05:18:39 [notice] 16#16: using the "epoll" event method
+2022/07/17 05:18:39 [notice] 16#16: nginx/1.21.6
+2022/07/17 05:18:39 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/17 05:18:39 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/17 05:18:39 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/17 05:18:39 [notice] 16#16: start worker processes
+2022/07/17 05:18:39 [notice] 16#16: start worker process 17
+2022/07/17 05:18:39 [notice] 16#16: start worker process 18
+2022/07/17 05:18:39 [notice] 16#16: start worker process 19
+2022/07/17 05:18:39 [notice] 16#16: start worker process 20
+2022/07/17 05:18:39 [notice] 16#16: start worker process 21
+2022/07/17 05:18:39 [notice] 16#16: start worker process 22
+2022/07/17 05:18:39 [notice] 16#16: start worker process 23
+2022/07/17 05:18:39 [notice] 16#16: start worker process 24
+2022/07/17 05:22:42 [notice] 17#17: using the "epoll" event method
+2022/07/17 05:22:42 [notice] 17#17: nginx/1.21.6
+2022/07/17 05:22:42 [notice] 17#17: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/17 05:22:42 [notice] 17#17: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/17 05:22:42 [notice] 17#17: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/17 05:22:42 [notice] 17#17: start worker processes
+2022/07/17 05:22:42 [notice] 17#17: start worker process 18
+2022/07/17 05:22:42 [notice] 17#17: start worker process 19
+2022/07/17 05:22:42 [notice] 17#17: start worker process 20
+2022/07/17 05:22:42 [notice] 17#17: start worker process 21
+2022/07/17 05:22:42 [notice] 17#17: start worker process 22
+2022/07/17 05:22:42 [notice] 17#17: start worker process 23
+2022/07/17 05:22:42 [notice] 17#17: start worker process 24
+2022/07/17 05:22:42 [notice] 17#17: start worker process 25
+2022/07/17 05:23:46 [notice] 16#16: using the "epoll" event method
+2022/07/17 05:23:46 [notice] 16#16: nginx/1.21.6
+2022/07/17 05:23:46 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/17 05:23:46 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/17 05:23:46 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/17 05:23:46 [notice] 16#16: start worker processes
+2022/07/17 05:23:46 [notice] 16#16: start worker process 17
+2022/07/17 05:23:46 [notice] 16#16: start worker process 18
+2022/07/17 05:23:46 [notice] 16#16: start worker process 19
+2022/07/17 05:23:46 [notice] 16#16: start worker process 20
+2022/07/17 05:23:46 [notice] 16#16: start worker process 21
+2022/07/17 05:23:46 [notice] 16#16: start worker process 22
+2022/07/17 05:23:46 [notice] 16#16: start worker process 23
+2022/07/17 05:23:46 [notice] 16#16: start worker process 24
+2022/07/18 01:52:18 [notice] 16#16: using the "epoll" event method
+2022/07/18 01:52:18 [notice] 16#16: nginx/1.21.6
+2022/07/18 01:52:18 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/18 01:52:18 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/18 01:52:18 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/18 01:52:18 [notice] 16#16: start worker processes
+2022/07/18 01:52:18 [notice] 16#16: start worker process 17
+2022/07/18 01:52:18 [notice] 16#16: start worker process 18
+2022/07/18 01:52:18 [notice] 16#16: start worker process 19
+2022/07/18 01:52:18 [notice] 16#16: start worker process 20
+2022/07/18 01:52:18 [notice] 16#16: start worker process 21
+2022/07/18 01:52:18 [notice] 16#16: start worker process 22
+2022/07/18 01:52:18 [notice] 16#16: start worker process 23
+2022/07/18 01:52:18 [notice] 16#16: start worker process 24
+2022/07/18 02:50:13 [notice] 16#16: using the "epoll" event method
+2022/07/18 02:50:13 [notice] 16#16: nginx/1.21.6
+2022/07/18 02:50:13 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/18 02:50:13 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/18 02:50:13 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/18 02:50:13 [notice] 16#16: start worker processes
+2022/07/18 02:50:13 [notice] 16#16: start worker process 17
+2022/07/18 02:50:13 [notice] 16#16: start worker process 18
+2022/07/18 02:50:13 [notice] 16#16: start worker process 19
+2022/07/18 02:50:13 [notice] 16#16: start worker process 20
+2022/07/18 02:50:13 [notice] 16#16: start worker process 21
+2022/07/18 02:50:13 [notice] 16#16: start worker process 22
+2022/07/18 02:50:13 [notice] 16#16: start worker process 23
+2022/07/18 02:50:13 [notice] 16#16: start worker process 24
+2022/07/19 02:04:09 [notice] 16#16: using the "epoll" event method
+2022/07/19 02:04:09 [notice] 16#16: nginx/1.21.6
+2022/07/19 02:04:09 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/19 02:04:09 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/19 02:04:09 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/19 02:04:09 [notice] 16#16: start worker processes
+2022/07/19 02:04:09 [notice] 16#16: start worker process 17
+2022/07/19 02:04:09 [notice] 16#16: start worker process 18
+2022/07/19 02:04:09 [notice] 16#16: start worker process 19
+2022/07/19 02:04:09 [notice] 16#16: start worker process 20
+2022/07/19 02:04:09 [notice] 16#16: start worker process 21
+2022/07/19 02:04:09 [notice] 16#16: start worker process 22
+2022/07/19 02:04:09 [notice] 16#16: start worker process 23
+2022/07/19 02:04:09 [notice] 16#16: start worker process 24
+2022/07/19 03:59:38 [notice] 16#16: using the "epoll" event method
+2022/07/19 03:59:38 [notice] 16#16: nginx/1.21.6
+2022/07/19 03:59:38 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/19 03:59:38 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/19 03:59:38 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/19 03:59:38 [notice] 16#16: start worker processes
+2022/07/19 03:59:38 [notice] 16#16: start worker process 17
+2022/07/19 03:59:38 [notice] 16#16: start worker process 18
+2022/07/19 03:59:38 [notice] 16#16: start worker process 19
+2022/07/19 03:59:38 [notice] 16#16: start worker process 20
+2022/07/19 03:59:38 [notice] 16#16: start worker process 21
+2022/07/19 03:59:38 [notice] 16#16: start worker process 22
+2022/07/19 03:59:38 [notice] 16#16: start worker process 23
+2022/07/19 03:59:38 [notice] 16#16: start worker process 24
+2022/07/19 04:56:06 [notice] 16#16: using the "epoll" event method
+2022/07/19 04:56:06 [notice] 16#16: nginx/1.21.6
+2022/07/19 04:56:06 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/19 04:56:06 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/19 04:56:06 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/19 04:56:06 [notice] 16#16: start worker processes
+2022/07/19 04:56:06 [notice] 16#16: start worker process 17
+2022/07/19 04:56:06 [notice] 16#16: start worker process 18
+2022/07/19 04:56:06 [notice] 16#16: start worker process 19
+2022/07/19 04:56:06 [notice] 16#16: start worker process 20
+2022/07/19 04:56:06 [notice] 16#16: start worker process 21
+2022/07/19 04:56:06 [notice] 16#16: start worker process 22
+2022/07/19 04:56:06 [notice] 16#16: start worker process 23
+2022/07/19 04:56:06 [notice] 16#16: start worker process 24
+2022/07/19 07:16:23 [notice] 16#16: using the "epoll" event method
+2022/07/19 07:16:23 [notice] 16#16: nginx/1.21.6
+2022/07/19 07:16:23 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/19 07:16:23 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/19 07:16:23 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/19 07:16:23 [notice] 16#16: start worker processes
+2022/07/19 07:16:23 [notice] 16#16: start worker process 17
+2022/07/19 07:16:23 [notice] 16#16: start worker process 18
+2022/07/19 07:16:23 [notice] 16#16: start worker process 19
+2022/07/19 07:16:23 [notice] 16#16: start worker process 20
+2022/07/19 07:16:23 [notice] 16#16: start worker process 21
+2022/07/19 07:16:23 [notice] 16#16: start worker process 22
+2022/07/19 07:16:23 [notice] 16#16: start worker process 23
+2022/07/19 07:16:23 [notice] 16#16: start worker process 24
+2022/07/19 07:37:25 [notice] 16#16: using the "epoll" event method
+2022/07/19 07:37:25 [notice] 16#16: nginx/1.21.6
+2022/07/19 07:37:25 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/19 07:37:25 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/19 07:37:25 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/19 07:37:25 [notice] 16#16: start worker processes
+2022/07/19 07:37:25 [notice] 16#16: start worker process 17
+2022/07/19 07:37:25 [notice] 16#16: start worker process 18
+2022/07/19 07:37:25 [notice] 16#16: start worker process 19
+2022/07/19 07:37:25 [notice] 16#16: start worker process 20
+2022/07/19 07:37:25 [notice] 16#16: start worker process 21
+2022/07/19 07:37:25 [notice] 16#16: start worker process 22
+2022/07/19 07:37:25 [notice] 16#16: start worker process 23
+2022/07/19 07:37:25 [notice] 16#16: start worker process 24
+2022/07/19 13:10:34 [notice] 16#16: using the "epoll" event method
+2022/07/19 13:10:34 [notice] 16#16: nginx/1.21.6
+2022/07/19 13:10:34 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/19 13:10:34 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/19 13:10:34 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/19 13:10:34 [notice] 16#16: start worker processes
+2022/07/19 13:10:34 [notice] 16#16: start worker process 17
+2022/07/19 13:10:34 [notice] 16#16: start worker process 18
+2022/07/19 13:10:34 [notice] 16#16: start worker process 19
+2022/07/19 13:10:34 [notice] 16#16: start worker process 20
+2022/07/19 13:10:34 [notice] 16#16: start worker process 21
+2022/07/19 13:10:34 [notice] 16#16: start worker process 22
+2022/07/19 13:10:34 [notice] 16#16: start worker process 23
+2022/07/19 13:10:34 [notice] 16#16: start worker process 24
+2022/07/19 13:10:35 [crit] 17#17: *1 connect() to unix:/run/php/php8.1-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 172.22.0.1, server: api.laravel.org, request: "GET / HTTP/2.0", upstream: "fastcgi://unix:/run/php/php8.1-fpm.sock:", host: "api.laravel.org"
+2022/07/19 13:23:09 [notice] 16#16: using the "epoll" event method
+2022/07/19 13:23:09 [notice] 16#16: nginx/1.21.6
+2022/07/19 13:23:09 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/19 13:23:09 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/19 13:23:09 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/19 13:23:09 [notice] 16#16: start worker processes
+2022/07/19 13:23:09 [notice] 16#16: start worker process 17
+2022/07/19 13:23:09 [notice] 16#16: start worker process 18
+2022/07/19 13:23:09 [notice] 16#16: start worker process 19
+2022/07/19 13:23:09 [notice] 16#16: start worker process 20
+2022/07/19 13:23:09 [notice] 16#16: start worker process 21
+2022/07/19 13:23:09 [notice] 16#16: start worker process 22
+2022/07/19 13:23:09 [notice] 16#16: start worker process 23
+2022/07/19 13:23:09 [notice] 16#16: start worker process 24
+2022/07/19 13:24:20 [notice] 16#16: using the "epoll" event method
+2022/07/19 13:24:20 [notice] 16#16: nginx/1.21.6
+2022/07/19 13:24:20 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/19 13:24:20 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/19 13:24:20 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/19 13:24:20 [notice] 16#16: start worker processes
+2022/07/19 13:24:20 [notice] 16#16: start worker process 17
+2022/07/19 13:24:20 [notice] 16#16: start worker process 18
+2022/07/19 13:24:20 [notice] 16#16: start worker process 19
+2022/07/19 13:24:20 [notice] 16#16: start worker process 20
+2022/07/19 13:24:20 [notice] 16#16: start worker process 21
+2022/07/19 13:24:20 [notice] 16#16: start worker process 22
+2022/07/19 13:24:20 [notice] 16#16: start worker process 23
+2022/07/19 13:24:20 [notice] 16#16: start worker process 24
+2022/07/20 01:50:08 [notice] 16#16: using the "epoll" event method
+2022/07/20 01:50:08 [notice] 16#16: nginx/1.21.6
+2022/07/20 01:50:08 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/20 01:50:08 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/20 01:50:08 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/20 01:50:08 [notice] 16#16: start worker processes
+2022/07/20 01:50:08 [notice] 16#16: start worker process 17
+2022/07/20 01:50:08 [notice] 16#16: start worker process 18
+2022/07/20 01:50:08 [notice] 16#16: start worker process 19
+2022/07/20 01:50:08 [notice] 16#16: start worker process 20
+2022/07/20 01:50:08 [notice] 16#16: start worker process 21
+2022/07/20 01:50:08 [notice] 16#16: start worker process 22
+2022/07/20 01:50:08 [notice] 16#16: start worker process 23
+2022/07/20 01:50:08 [notice] 16#16: start worker process 24
+2022/07/20 15:41:20 [notice] 16#16: using the "epoll" event method
+2022/07/20 15:41:20 [notice] 16#16: nginx/1.21.6
+2022/07/20 15:41:20 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/20 15:41:20 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/20 15:41:20 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/20 15:41:20 [notice] 16#16: start worker processes
+2022/07/20 15:41:20 [notice] 16#16: start worker process 17
+2022/07/20 15:41:20 [notice] 16#16: start worker process 18
+2022/07/20 15:41:20 [notice] 16#16: start worker process 19
+2022/07/20 15:41:20 [notice] 16#16: start worker process 20
+2022/07/20 15:41:20 [notice] 16#16: start worker process 21
+2022/07/20 15:41:20 [notice] 16#16: start worker process 22
+2022/07/20 15:41:20 [notice] 16#16: start worker process 23
+2022/07/20 15:41:20 [notice] 16#16: start worker process 24
+2022/07/21 10:20:41 [notice] 16#16: using the "epoll" event method
+2022/07/21 10:20:41 [notice] 16#16: nginx/1.21.6
+2022/07/21 10:20:41 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/21 10:20:41 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/21 10:20:41 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/21 10:20:41 [notice] 16#16: start worker processes
+2022/07/21 10:20:41 [notice] 16#16: start worker process 17
+2022/07/21 10:20:41 [notice] 16#16: start worker process 18
+2022/07/21 10:20:41 [notice] 16#16: start worker process 19
+2022/07/21 10:20:41 [notice] 16#16: start worker process 20
+2022/07/21 10:20:41 [notice] 16#16: start worker process 21
+2022/07/21 10:20:41 [notice] 16#16: start worker process 22
+2022/07/21 10:20:41 [notice] 16#16: start worker process 23
+2022/07/21 10:20:41 [notice] 16#16: start worker process 24
+2022/07/21 10:23:47 [notice] 16#16: using the "epoll" event method
+2022/07/21 10:23:47 [notice] 16#16: nginx/1.21.6
+2022/07/21 10:23:47 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/21 10:23:47 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/21 10:23:47 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/21 10:23:47 [notice] 16#16: start worker processes
+2022/07/21 10:23:47 [notice] 16#16: start worker process 17
+2022/07/21 10:23:47 [notice] 16#16: start worker process 18
+2022/07/21 10:23:47 [notice] 16#16: start worker process 19
+2022/07/21 10:23:47 [notice] 16#16: start worker process 20
+2022/07/21 10:23:47 [notice] 16#16: start worker process 21
+2022/07/21 10:23:47 [notice] 16#16: start worker process 22
+2022/07/21 10:23:47 [notice] 16#16: start worker process 23
+2022/07/21 10:23:47 [notice] 16#16: start worker process 24
+2022/07/21 10:24:59 [notice] 16#16: using the "epoll" event method
+2022/07/21 10:24:59 [notice] 16#16: nginx/1.21.6
+2022/07/21 10:24:59 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/21 10:24:59 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/21 10:24:59 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/21 10:24:59 [notice] 16#16: start worker processes
+2022/07/21 10:24:59 [notice] 16#16: start worker process 17
+2022/07/21 10:24:59 [notice] 16#16: start worker process 18
+2022/07/21 10:24:59 [notice] 16#16: start worker process 19
+2022/07/21 10:24:59 [notice] 16#16: start worker process 20
+2022/07/21 10:24:59 [notice] 16#16: start worker process 21
+2022/07/21 10:24:59 [notice] 16#16: start worker process 22
+2022/07/21 10:24:59 [notice] 16#16: start worker process 23
+2022/07/21 10:24:59 [notice] 16#16: start worker process 24
+2022/07/22 03:02:16 [notice] 16#16: using the "epoll" event method
+2022/07/22 03:02:16 [notice] 16#16: nginx/1.21.6
+2022/07/22 03:02:16 [notice] 16#16: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/22 03:02:16 [notice] 16#16: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/22 03:02:16 [notice] 16#16: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/22 03:02:16 [notice] 16#16: start worker processes
+2022/07/22 03:02:16 [notice] 16#16: start worker process 17
+2022/07/22 03:02:16 [notice] 16#16: start worker process 18
+2022/07/22 03:02:16 [notice] 16#16: start worker process 19
+2022/07/22 03:02:16 [notice] 16#16: start worker process 20
+2022/07/22 03:02:16 [notice] 16#16: start worker process 21
+2022/07/22 03:02:16 [notice] 16#16: start worker process 22
+2022/07/22 03:02:16 [notice] 16#16: start worker process 23
+2022/07/22 03:02:16 [notice] 16#16: start worker process 24
